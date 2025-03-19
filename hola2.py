@@ -1,4 +1,3 @@
 """Módulo simple que imprime un saludo."""
 
-print("Chao mundo")
-
+print("Welcome to the game")
