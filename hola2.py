@@ -1,4 +1,4 @@
 """Módulo simple que imprime un saludo."""
 
-print("Chao mundo")
+print("Chao mundo" + " " + "2")
 
