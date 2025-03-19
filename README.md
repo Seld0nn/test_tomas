@@ -14,7 +14,7 @@ Ver estado de repositorio
 git status 
 ```
 
-## Para actualizar estados respositorios
+Para actualizar estados respositorios
 
 ```console
 git fetch
