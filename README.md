@@ -11,10 +11,10 @@ git clone [link]
 Ver estado de repositorio
 
 ```console
-git status
+git status 
 ```
 
-Para actualizar estados respositorios
+## Para actualizar estados respositorios
 
 ```console
 git fetch
@@ -34,7 +34,7 @@ fist commit de una branch antes del git push habrá que hacer
 git push --set-upstream origin nombrebranch
 ```
 
-Crear branch
+Como saber que cosas hay en cada branch
 
 ```console
 git branch [name_new_branch]
