@@ -1,3 +1,3 @@
 """Módulo simple que imprime un saludo."""
 
-print("Hola mundo 2")
+print("Welcome to the game")
